@@ -60,16 +60,16 @@ https://uptimerobot.com/
 5. Explicação dos Testes Entregues
 Para cada um dos três testes obrigatórios entregues na pasta /testes, responda:
 Nome do teste
-
+ 01-função simples de soma
 
 Objetivo
-
-
+01-cria testes unitários para verificar se a função funciona corretamente em diferentes cenários
+02-
 Qual biblioteca Python foi utilizada
-
+01-unittest
 
 Qual resultado esperado
-
+01-Cada um desses testes usa o método assertEqual para verificar se o resultado da função soma é igual ao valor esperado.
 
 Link para o arquivo (ex: testes/teste_01.py)
 
