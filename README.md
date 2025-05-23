@@ -76,7 +76,12 @@ Qual biblioteca Python foi utilizada
 
 Qual resultado esperado
 01-Cada um desses testes usa o método assertEqual para verificar se o resultado da função soma é igual ao valor esperado.
-02-
+02-o script tem como finalidade principal:
+Abrir um navegador automaticamente.
+Acessar uma página com um formulário.
+Preencher os campos necessários (como nome, e-mail e senha).
+Clicar no botão de envio.
+Verificar se o envio foi bem-sucedido, por meio de uma mensagem de confirmação.
 03-
 
 Link para o arquivo (ex: testes/teste_01.py)
