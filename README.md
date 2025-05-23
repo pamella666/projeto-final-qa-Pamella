@@ -63,6 +63,7 @@ Nome do teste
 01-função simples de soma
 02-preenchimento e envio de um formulário
 03-
+
 Objetivo
 01-cria testes unitários para verificar se a função funciona corretamente em diferentes cenários
 02- Ele espera por elementos específicos, preenche os campos do formulário, envia o formulário e verifica se a mensagem de confirmação está correta.
@@ -75,6 +76,8 @@ Qual biblioteca Python foi utilizada
 
 Qual resultado esperado
 01-Cada um desses testes usa o método assertEqual para verificar se o resultado da função soma é igual ao valor esperado.
+02-
+03-
 
 Link para o arquivo (ex: testes/teste_01.py)
 
