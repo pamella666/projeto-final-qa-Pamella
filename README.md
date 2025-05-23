@@ -75,7 +75,13 @@ Qual biblioteca Python foi utilizada
 03-
 
 Qual resultado esperado
-01-Cada um desses testes usa o método assertEqual para verificar se o resultado da função soma é igual ao valor esperado.
+01-Este código define 3 testes:
+test_soma_positivos.
+Verifica se soma(1, 2) retorna 3.
+test_soma_negativos
+Verifica se soma(-1, -2) retorna -3.
+test_soma_zero
+Verifica se soma(0, 0) retorna 0.
 02-o script tem como finalidade principal:
 Abrir um navegador automaticamente.
 Acessar uma página com um formulário.
