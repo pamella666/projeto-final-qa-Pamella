@@ -1,126 +1,82 @@
-# projeto-final-qa-Pamella
-
 1. Apresentação
-Nome completo : Pamella gomes da Silva 50398
+Nome completo: Pamella Gomes da Silva - 50398
 
+Curso e semestre:
+Gestão da Tecnologia da Informação, 5º semestre
 
-Curso e semestre
-Gestão da tecnologia da informação, 5 semestre
-
-Um parágrafo com uma breve descrição da sua experiência com a disciplina
-Para ser honesta fiquei um pouco perdida, mas algumas aulas eu consegui gravar a tela pra depois ver com mais calma e compreemdi. O professor é muito bom a aulas são ótimas. O meu único problema é meu raciocinio que não consegue acompanhar a velocidade da aula. 
-
-
+Breve descrição da experiência com a disciplina:
+Para ser honesta, fiquei um pouco perdida no começo, mas consegui gravar algumas aulas para assistir depois com mais calma e compreender melhor. O professor é muito bom e as aulas são ótimas. Meu único problema é que meu raciocínio não acompanha a velocidade da aula.
 
 2. O que é Quality Assurance (QA)?
-Explique com suas palavras o conceito de QA e sua importância no desenvolvimento de software
-
-O Quality Assurance (QA) é como ter um "inspector de qualidade" para o software. Ele garante que o software funcione bem, seja confiável e atenda às necessidades dos usuários. Isso economiza tempo e dinheiro, deixa os usuários felizes e garante que o software seja de alta qualidade.
-
+Quality Assurance (QA) é como ter um "inspetor de qualidade" para o software. Ele garante que o software funcione bem, seja confiável e atenda às necessidades dos usuários. Isso economiza tempo e dinheiro, deixa os usuários felizes e assegura que o software seja de alta qualidade.
 
 3. Conceitos Aprendidos Durante o Semestre
-Escreva um parágrafo explicando o que você aprendeu sobre:
 Qualidade em software e cultura de qualidade
-Durante o semestre, aprendi que a qualidade em software vai além de evitar erros, focando em atender às necessidades dos usuários. Uma cultura de qualidade envolve toda a equipe, utilizando práticas como revisões de código, testes rigorosos e feedback contínuo para garantir software confiável e eficiente.
+Aprendi que qualidade em software vai além de evitar erros; ela foca em atender às necessidades dos usuários. Uma cultura de qualidade envolve toda a equipe, com práticas como revisões de código, testes rigorosos e feedback contínuo para garantir software confiável e eficiente.
 
-Tipos de testes (unitário, integração, sistema, aceitação, regressão e exploratório)
+Tipos de testes:
 
 Testes Unitários: Verificam partes individuais do código, como funções ou métodos, para garantir que cada unidade funcione corretamente.
+
 Testes de Integração: Garantem que diferentes partes do software funcionem bem juntas, verificando a interação entre módulos ou serviços.
+
 Testes de Sistema: Avaliam o sistema como um todo para garantir que ele atenda aos requisitos especificados.
-Testes de Aceitação: Verificam se o software atende aos requisitos do usuário e está pronto para ser entregue.
-Testes de Regressão: Garantem que novas alterações no código não introduzam novos bugs em funcionalidades existentes.
-Testes Exploratórios: Permitem descobrir problemas de forma mais livre e criativa, sem seguir um script pré-definido.
 
-Planejamento de testes (critérios de aceitação, planos e casos de teste)
+Testes de Aceitação: Verificam se o software atende aos requisitos do usuário e está pronto para entrega.
 
-Aprendi a importância de definir critérios de aceitação claros, que descrevem o que o software deve fazer para ser considerado pronto. Também aprendi a criar planos de teste detalhados, que descrevem o escopo, os objetivos e os recursos necessários para os testes. Além disso, desenvolvi casos de teste que cobrem diferentes cenários de uso, garantindo que o software seja testado de maneira abrangente e eficiente.
+Testes de Regressão: Garantem que novas alterações no código não introduzam bugs em funcionalidades existentes.
 
-Ferramentas de testes utilizadas durante o semestre (Colab, GitHub, etc.)
+Testes Exploratórios: Permitem descobrir problemas de forma livre e criativa, sem seguir um script pré-definido.
+
+Planejamento de testes (critérios de aceitação, planos e casos de teste):
+Aprendi a importância de definir critérios de aceitação claros, que descrevem o que o software deve fazer para ser considerado pronto. Também criei planos de teste detalhados, descrevendo escopo, objetivos e recursos necessários. Desenvolvi casos de teste que cobrem diferentes cenários, garantindo testes abrangentes e eficientes.
+
+Ferramentas de testes utilizadas:
 
 Google Colab: Para executar scripts e testes em um ambiente de notebook interativo.
+
 GitHub: Para gerenciar o código, colaborar em projetos e rastrear issues e bugs.
 
-Automação de testes e integração com CI/CD
+Automação de testes e integração com CI/CD:
+Aprendi que a automação de testes é crucial para executar testes automaticamente a cada mudança no código, identificando e resolvendo problemas rapidamente. Também conheci a Integração Contínua e Entrega Contínua (CI/CD), que automatizam construção, testes e implantação do software, garantindo que ele esteja sempre pronto para lançamento.
 
-Aprendi como a automação de testes é crucial, pois permite executar testes automaticamente a cada mudança no código, ajudando a identificar e resolver problemas rapidamente. Além disso, conheci a Integração Contínua e a Entrega Contínua (CI/CD), que automatizam a construção, teste e implantação do software, assegurando que ele esteja sempre pronto para ser lançado.
-
-Monitoramento e controle de qualidade (uso de métricas, rastreamento de bugs, observabilidade)
-
-Por fim, entendi a importância de monitorar e controlar a qualidade do software, usando métricas para rastrear e corrigir bugs. Também aprendi sobre observabilidade, que usa ferramentas para monitorar o desempenho do software em produção, garantindo que problemas sejam rapidamente identificados e resolvidos.
+Monitoramento e controle de qualidade:
+Entendi a importância de monitorar e controlar a qualidade do software com métricas para rastrear e corrigir bugs. Também aprendi sobre observabilidade, usando ferramentas para monitorar o desempenho em produção, garantindo que problemas sejam rapidamente identificados e resolvidos.
 
 4. Ferramentas e Sites Utilizados
-Liste todos os sites e ferramentas que você usou durante o curso, por exemplo:
 https://chat.mistral.ai/chat
-https://colab.research.google.com/ 
+
+https://colab.research.google.com/
+
 https://github.com/
+
 https://uptimerobot.com/
 
-
 5. Explicação dos Testes Entregues
-Para cada um dos três testes obrigatórios entregues na pasta /testes, responda:
-Nome do teste
-01-teste_funcao_soma.py
-02-formulario_automatizado_selenium.py
-03-login_automatizado_selenium.py
+Nome do teste: 01-teste_funcao_soma.py
+Objetivo: Cria testes unitários para verificar se a função soma funciona corretamente em diferentes cenários.
+Biblioteca Python: unittest
+Resultado esperado: Define três testes:
 
-Objetivo
-01-cria testes unitários para verificar se a função funciona corretamente em diferentes cenários
-02- Ele espera por elementos específicos, preenche os campos do formulário, envia o formulário e verifica se a mensagem de confirmação está correta.
-03-utomatizar o processo de login em uma página da web usando Python e Selenium.   
+test_soma_positivos — verifica se soma(1, 2) retorna 3.
 
-Qual biblioteca Python foi utilizada
-01-unittest
-02-selenium
-03-selenium
+test_soma_negativos — verifica se soma(-1, -2) retorna -3.
 
-Qual resultado esperado
-01-Este código define 3 testes:
-test_soma_positivos.
-Verifica se soma(1, 2) retorna 3.
-test_soma_negativos
-Verifica se soma(-1, -2) retorna -3.
-test_soma_zero
-Verifica se soma(0, 0) retorna 0.
-02-o script tem como finalidade principal:
-Abrir um navegador automaticamente.
-Acessar uma página com um formulário.
-Preencher os campos necessários (como nome, e-mail e senha).
-Clicar no botão de envio.
-Verificar se o envio foi bem-sucedido, por meio de uma mensagem de confirmação.
-03-Instalar o Selenium e dependências (Chrome e ChromeDriver).
-Abrir o navegador em modo invisível (headless).
-Acessar uma página de login.
-Inserir automaticamente o nome de usuário e senha.
-Submeter o formulário de login.
-Verificar se o login foi bem-sucedido, checando se um elemento de boas-vindas está presente.
-Fechar o navegador.
+test_soma_zero — verifica se soma(0, 0) retorna 0.
+Todos devem passar sem erros.
+Link: https://colab.research.google.com/drive/1BFwwS0_2d8y5dWxtcs07gGdvLVUX1KY2
 
-Link para o arquivo (ex: testes/teste_01.py)
+Nome do teste: 02-formulario_automatizado_selenium.py
+Objetivo: Preenche campos do formulário, envia o formulário e verifica a mensagem de confirmação.
+Biblioteca Python: selenium
+Resultado esperado: O script abre o navegador automaticamente, acessa a página com formulário, preenche nome, e-mail e senha, clica para enviar, e verifica se a mensagem "Formulário enviado com sucesso" aparece.
+Link: https://colab.research.google.com/drive/1rOg2ssWMW8b2G0gSPK_u1Epfo0CpYK1z
 
-
-Exemplo de formatação:
-
-✅ Teste 01 – Verificação de status da API ReqRes
-Biblioteca: Requests
-
-
-Objetivo: Verificar se o endpoint retorna status HTTP 200
-
-
-Resultado esperado: Teste passa com sucesso se o status for 200
-
-
-Arquivo: testes/teste_01.py
-
-
+Nome do teste: 03-login_automatizado_selenium.py
+Objetivo: Automatizar o processo de login em uma página web usando Python e Selenium.
+Biblioteca Python: selenium
+Resultado esperado: Instala Selenium e dependências, abre navegador headless, acessa a página de login, insere usuário e senha, submete o formulário, verifica se o elemento de boas-vindas aparece, confirmando sucesso, e fecha o navegador.
+Link: https://colab.research.google.com/drive/14HkIK3UTXi_RZX_W5O7xWeSMwoEboM3r
 
 6. Conclusão Final
-Escreva um parágrafo com sua reflexão pessoal, respondendo:
-O que você aprendeu de mais importante?
-
-
-Como você enxerga a área de QA no seu futuro profissional?
-
-
-Qual ferramenta ou tema mais chamou sua atenção e por quê?
+Durante esse processo, percebi como a automação facilita e acelera os testes, garantindo que o software funcione corretamente. Aprendi o valor dos testes unitários e da automação com Selenium para tornar o trabalho mais eficiente. Vejo QA como uma área importante e promissora para minha carreira, pois ajuda a entregar produtos melhores e com mais confiança aos usuários. O que mais me chamou atenção foi o Google Colab — achei incrível poder rodar testes e códigos direto na nuvem, sem me preocupar com instalações complicadas. Isso me motivou a explorar mais ferramentas que facilitam o dia a dia no desenvolvimento e teste de software.
