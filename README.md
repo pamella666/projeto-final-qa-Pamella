@@ -60,19 +60,19 @@ https://uptimerobot.com/
 5. Explicação dos Testes Entregues
 Para cada um dos três testes obrigatórios entregues na pasta /testes, responda:
 Nome do teste
-01-função simples de soma
-02-preenchimento e envio de um formulário
-03-
+01-teste_funcao_soma.py
+02-formulario_automatizado_selenium.py
+03-login_automatizado_selenium.py
 
 Objetivo
 01-cria testes unitários para verificar se a função funciona corretamente em diferentes cenários
 02- Ele espera por elementos específicos, preenche os campos do formulário, envia o formulário e verifica se a mensagem de confirmação está correta.
-03-   
+03-utomatizar o processo de login em uma página da web usando Python e Selenium.   
 
 Qual biblioteca Python foi utilizada
 01-unittest
 02-selenium
-03-
+03-selenium
 
 Qual resultado esperado
 01-Este código define 3 testes:
@@ -88,7 +88,13 @@ Acessar uma página com um formulário.
 Preencher os campos necessários (como nome, e-mail e senha).
 Clicar no botão de envio.
 Verificar se o envio foi bem-sucedido, por meio de uma mensagem de confirmação.
-03-
+03-Instalar o Selenium e dependências (Chrome e ChromeDriver).
+Abrir o navegador em modo invisível (headless).
+Acessar uma página de login.
+Inserir automaticamente o nome de usuário e senha.
+Submeter o formulário de login.
+Verificar se o login foi bem-sucedido, checando se um elemento de boas-vindas está presente.
+Fechar o navegador.
 
 Link para o arquivo (ex: testes/teste_01.py)
 
